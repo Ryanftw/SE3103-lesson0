@@ -16,7 +16,7 @@ public class Main {
 		Container cp = window.getContentPane();
 		JPanel panel = new JPanel();
 		panel.add(new JTextField("Hello World!"));
-		panel.add(new JButton("Click on Me"));
+		panel.add(new JButton("Click On Me"));
 		panel.add(new JButton("Sign Up"));
 		panel.add(new JTextField("Java World!"));
 		cp.add(panel);
